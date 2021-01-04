@@ -1,0 +1,5 @@
+tcp:
+  reader:
+    buffer-size: 2048
+  server:
+    port: 5555
